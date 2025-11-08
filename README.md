@@ -1,8 +1,11 @@
-# Hi, I’m Callum 👋
+
+<h1 align="center">csmit863</h1>
+
 
 ## About Me
-I enjoy building with blockchain and bringing new ideas to life
+Hi, I’m Callum 👋 I enjoy building with blockchain and bringing new ideas to life
 
+<div align="center">
 
 ## My Stack
 ![Solidity](https://img.shields.io/badge/Solidity-363636?logo=solidity&logoColor=fff)
@@ -17,7 +20,7 @@ I enjoy building with blockchain and bringing new ideas to life
 ![Expo](https://img.shields.io/badge/Expo-000020?logo=expo&logoColor=fff)
 ![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)
-
+</div>
 
 
 
