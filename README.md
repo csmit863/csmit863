@@ -12,7 +12,7 @@ I build a lot of blockchain projects, I've also worked in the cybersecurity indu
  - Description
  - Technologies used
 
-### 🌟 ![CoinMerge](https://github.com/csmit863/ethglobal2024-coinmerge)
+### 🌟 ![CoinMerge](https://github.com/csmit863/coinmerge-ethglobal2024)
  - Description
  - Technologies used
 
