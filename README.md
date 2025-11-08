@@ -8,16 +8,21 @@ I build a lot of blockchain projects, I've also worked in the cybersecurity indu
 
 ## Projects 
 
-### 🟩 Crypto-Craft
+### 🟩 ![Crypto Craft](https://github.com/csmit863/crypto-craft)
+ - Description
+ - Technologies used
 
+### 🌟 ![CoinMerge](https://github.com/csmit863/ethglobal2024-coinmerge)
+ - Description
+ - Technologies used
 
-### 🌟 CoinMerge
-
-
-### 📈 Modular-Tokenomics
-
+### 📈 ![Modular Tokenomics](https://github.com/csmit863/modular-tokenomics)
+ - Description
+ - Technologies used
+   
 ### 🛡️ Guardrail (not on profile)
-
+ - Description
+ - Technologies used
 
 ---
 
@@ -28,5 +33,4 @@ Self hosting tools, Linux, scripting, Rust
 
 ## Contact
 - 📧 Email: csmit863@outlook.com
-
 ---
