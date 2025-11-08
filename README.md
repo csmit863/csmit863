@@ -2,9 +2,9 @@
 <h1 align="center">csmit863</h1>
 
 
-## About Me
+---
 Hi, I’m Callum 👋 I enjoy building with blockchain and bringing new ideas to life
-
+---
 <div align="center">
 
 ## My Stack
