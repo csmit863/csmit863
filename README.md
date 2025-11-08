@@ -28,6 +28,9 @@ I build a lot of blockchain projects, I've also worked in the cybersecurity indu
  - Description
  - Technologies used
 
+### ![Self-hosted Semi-Public Ethereum Testnet](https://testnet.qutblockchain.club)
+ - Description
+ - Technologies used
 ---
 
 ## Currently Learning
