@@ -5,12 +5,12 @@ I like building blockchain stuff
 
 
 
-![solidity]()
-![python]()
-![java]()
-![fastapi]()
-![foundry]()
-![hardhat]()
+![Solidity](https://img.shields.io/badge/Solidity-363636?logo=solidity&logoColor=fff)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009485.svg?logo=fastapi&logoColor=white)
+![Foundry](https://custom-icon-badges.demolab.com/badge/Foundry-000?logo=foundry&logoColor=fff)
+
 
 
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
