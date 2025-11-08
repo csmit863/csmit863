@@ -48,7 +48,7 @@ I like building blockchain stuff
  - Description
  - Technologies used
 
-### ![QUT Blockchain ERC20 Workshop](https://github.com/csmit863/workshop-week1)
+### 🔨 ![QUT Blockchain ERC20 Workshop](https://github.com/csmit863/workshop-week1)
  - Description
  - Technologies used
 
