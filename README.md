@@ -1,14 +1,4 @@
-<h1 align="center">csmit863</h1>
-
----
-
-Hi, I’m Callum 👋 I enjoy building with blockchain and bringing new ideas to life
-
-📧 Email: csmit863@outlook.com
-
----
 <div align="center">
-
 ![Solidity](https://img.shields.io/badge/Solidity-363636?logo=solidity&logoColor=fff)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)
@@ -22,6 +12,16 @@ Hi, I’m Callum 👋 I enjoy building with blockchain and bringing new ideas to
 ![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)
 </div>
+<h1 align="center">csmit863</h1>
+
+---
+
+Hi, I’m Callum 👋 I enjoy building with blockchain and bringing new ideas to life
+
+📧 Email: csmit863@outlook.com
+
+---
+
 
 
 
