@@ -1,8 +1,4 @@
-
-
-
 <h1 align="center">csmit863</h1>
-
 <div align="center">
 
  ![Solidity](https://img.shields.io/badge/Solidity-363636?logo=solidity&logoColor=fff)
@@ -35,19 +31,6 @@ Hi, I’m Callum 👋 I enjoy building with blockchain and bringing new ideas to
 ## Projects
 
 ### 🟩 ![Crypto Craft](https://github.com/csmit863/crypto-craft)
-
-
 ### 🌟 ![CoinMerge](https://github.com/csmit863/coinmerge-ethglobal2024)
-
-
 ### 📈 ![Modular Tokenomics](https://github.com/csmit863/modular-tokenomics)
-
-   
-### 🛡️ Guardrail (not on profile)
-
-
 ### 🔨 ![QUT Blockchain ERC20 Workshop](https://github.com/csmit863/workshop-week1)
-
-
-
-
