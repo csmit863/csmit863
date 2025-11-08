@@ -49,10 +49,5 @@ Hi, I’m Callum 👋 I enjoy building with blockchain and bringing new ideas to
  - Description
  - Technologies used
 
----
 
-<h1 align="center">Currently learning</h1>
-Self hosting tools, Linux, scripting, Rust
-
----
 
