@@ -24,7 +24,7 @@ I build a lot of blockchain projects, I've also worked in the cybersecurity indu
  - Description
  - Technologies used
 
-### ![QUT Blockchain ERC20 Workshop](https://github.com/csmit863/week1-workshop)
+### ![QUT Blockchain ERC20 Workshop](https://github.com/csmit863/workshop-week1)
  - Description
  - Technologies used
 
