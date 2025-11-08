@@ -1,10 +1,10 @@
 # Hi, I’m Callum 👋
 
 ## About Me
-I like building blockchain stuff
+I enjoy building with blockchain and bringing new ideas to life
 
 
-
+## My Stack
 ![Solidity](https://img.shields.io/badge/Solidity-363636?logo=solidity&logoColor=fff)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)
