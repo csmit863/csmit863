@@ -28,9 +28,11 @@ Hi, I’m Callum 👋 I enjoy building with blockchain and bringing new ideas to
 📧 Email: csmit863@outlook.com
 
 --- 
-## Projects
+## Project Showcase:
 
 ### 🟩 ![Crypto Craft](https://github.com/csmit863/crypto-craft)
 ### 🌟 ![CoinMerge](https://github.com/csmit863/coinmerge-ethglobal2024)
 ### 📈 ![Modular Tokenomics](https://github.com/csmit863/modular-tokenomics)
 ### 🔨 ![QUT Blockchain ERC20 Workshop](https://github.com/csmit863/workshop-week1)
+
+Ask me about Guardrail! 
