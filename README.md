@@ -16,6 +16,8 @@ I build a lot of blockchain projects, I've also worked in the cybersecurity indu
 
 ### 📈 Modular-Tokenomics
 
+### 🛡️ Guardrail (not on profile)
+
 
 ---
 
