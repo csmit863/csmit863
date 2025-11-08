@@ -1,8 +1,7 @@
 # Hi, I’m Callum 👋
 
 ## About Me
-I build a lot of blockchain projects, I've also worked in the cybersecurity industry.
-
+I like building blockchain stuff, check out my projects:
 
 ---
 
