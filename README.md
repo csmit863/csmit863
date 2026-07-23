@@ -33,4 +33,4 @@ Welcome to my Github
 ### 🟩 ![Crypto Craft](https://github.com/csmit863/crypto-craft)
 ### 📈 ![Modular Tokenomics](https://github.com/csmit863/modular-tokenomics)
 ### 🔨 ![QUT Blockchain ERC20 Workshop](https://github.com/csmit863/workshop-week1)
-### 💼 Guardrail, a privacy-enhanced smart wallet
+### 💼 ![Guardrail, a privacy-enhanced smart wallet](https://guardrail.qutblockchain.club/)
