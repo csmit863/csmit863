@@ -23,7 +23,7 @@
 
 ---
 
-Hi, I’m Callum 👋 I enjoy building with blockchain and bringing new ideas to life
+Welcome to my Github
 
 📧 Email: csmit863@outlook.com
 
@@ -33,5 +33,4 @@ Hi, I’m Callum 👋 I enjoy building with blockchain and bringing new ideas to
 ### 🟩 ![Crypto Craft](https://github.com/csmit863/crypto-craft)
 ### 📈 ![Modular Tokenomics](https://github.com/csmit863/modular-tokenomics)
 ### 🔨 ![QUT Blockchain ERC20 Workshop](https://github.com/csmit863/workshop-week1)
-
-Ask me about Guardrail! 
+### 💼 Guardrail, a privacy-enhanced smart wallet
