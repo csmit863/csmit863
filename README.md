@@ -1,4 +1,4 @@
-<h1 align="center">csmit863</h1>
+<h1 align="center">Callum Smith</h1>
 <div align="center">
 
  ![Solidity](https://img.shields.io/badge/Solidity-363636?logo=solidity&logoColor=fff)
