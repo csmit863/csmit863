@@ -1,4 +1,19 @@
 <h1 align="center">Callum Smith</h1>
+---
+
+Welcome to my Github
+
+📧 Email: csmit863@outlook.com
+
+--- 
+## Project Showcase:
+
+### 🟩 ![Crypto Craft](https://github.com/csmit863/crypto-craft)
+### 📈 ![Modular Tokenomics](https://github.com/csmit863/modular-tokenomics)
+### 🪙 ![Gesselian USDC](https://github.com/csmit863/friegeld-usdc)
+### 🔨 ![QUT Blockchain ERC20 Workshop](https://github.com/csmit863/workshop-week1)
+### 💼 [Guardrail, a privacy-enhanced smart wallet](https://guardrail.qutblockchain.club)
+
 <div align="center">
 
  ![Solidity](https://img.shields.io/badge/Solidity-363636?logo=solidity&logoColor=fff)
@@ -19,19 +34,3 @@
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)
 
 </div>
-
-
----
-
-Welcome to my Github
-
-📧 Email: csmit863@outlook.com
-
---- 
-## Project Showcase:
-
-### 🟩 ![Crypto Craft](https://github.com/csmit863/crypto-craft)
-### 📈 ![Modular Tokenomics](https://github.com/csmit863/modular-tokenomics)
-### 🪙 ![Gesselian USDC](https://github.com/csmit863/friegeld-usdc)
-### 🔨 ![QUT Blockchain ERC20 Workshop](https://github.com/csmit863/workshop-week1)
-### 💼 [Guardrail, a privacy-enhanced smart wallet](https://guardrail.qutblockchain.club)
